@@ -14,7 +14,6 @@
 # under the License.
 
 from setuptools import setup, find_packages
-from age import VERSION 
 
 with open("README.md", "r", encoding='utf8') as fh:
     long_description = fh.read()
